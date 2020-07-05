@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../src/routers/v1/index.ts"],"names":[],"mappings":";;;;;AAAA,oDAA8B;AAC9B,8DAAuC;AACvC,gEAAyC;AACzC,IAAM,UAAU,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AACpC,UAAU,CAAC,GAAG,CAAC,OAAO,EAAE,qBAAU,CAAC,CAAC;AACpC,UAAU,CAAC,GAAG,CAAC,QAAQ,EAAE,sBAAW,CAAC,CAAC;AACtC,kBAAe,UAAU,CAAC"}

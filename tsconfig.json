@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "ES5",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "types": ["reflect-metadata"],
+        "sourceMap": true,
+        "outDir": "build",
+        "baseUrl": ".",
+        "paths": {
+            "*":["node_modules/*"]
+        }
+    },
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "include": ["src/**/*"],
+    "exclude": ["src/test/*"]
+}
