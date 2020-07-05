@@ -4,7 +4,6 @@
         "module": "commonjs",
         "esModuleInterop": true,
         "target": "ES5",
-        "noImplicitAny": true,
         "moduleResolution": "node",
         "types": ["reflect-metadata"],
         "sourceMap": true,
